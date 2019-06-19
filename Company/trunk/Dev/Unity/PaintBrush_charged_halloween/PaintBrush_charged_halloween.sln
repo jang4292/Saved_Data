@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaintBrush_charged_halloween.Plugins", "PaintBrush_charged_halloween.Plugins.csproj", "{43727F0C-90AF-9603-CE76-BBF36B8AFEED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaintBrush_charged_halloween", "PaintBrush_charged_halloween.csproj", "{A74C8218-4C3F-4D6E-07AA-D3E26ED1F756}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaintBrush_charged_halloween.Editor.Plugins", "PaintBrush_charged_halloween.Editor.Plugins.csproj", "{DC5802DA-23F7-D691-CBCB-3F8220AE3001}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaintBrush_charged_halloween.Editor", "PaintBrush_charged_halloween.Editor.csproj", "{D61F747F-8E24-8BE9-F88A-24A1DA5D1EFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43727F0C-90AF-9603-CE76-BBF36B8AFEED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43727F0C-90AF-9603-CE76-BBF36B8AFEED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43727F0C-90AF-9603-CE76-BBF36B8AFEED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43727F0C-90AF-9603-CE76-BBF36B8AFEED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A74C8218-4C3F-4D6E-07AA-D3E26ED1F756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A74C8218-4C3F-4D6E-07AA-D3E26ED1F756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A74C8218-4C3F-4D6E-07AA-D3E26ED1F756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A74C8218-4C3F-4D6E-07AA-D3E26ED1F756}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC5802DA-23F7-D691-CBCB-3F8220AE3001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC5802DA-23F7-D691-CBCB-3F8220AE3001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC5802DA-23F7-D691-CBCB-3F8220AE3001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC5802DA-23F7-D691-CBCB-3F8220AE3001}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D61F747F-8E24-8BE9-F88A-24A1DA5D1EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D61F747F-8E24-8BE9-F88A-24A1DA5D1EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D61F747F-8E24-8BE9-F88A-24A1DA5D1EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D61F747F-8E24-8BE9-F88A-24A1DA5D1EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaintBrush_charged_sports.Plugins", "PaintBrush_charged_sports.Plugins.csproj", "{93CC6965-A2DA-CA2F-A83E-603570880330}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaintBrush_charged_sports", "PaintBrush_charged_sports.csproj", "{6D22DF01-CAF8-BC69-90AA-77C4844E252D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaintBrush_charged_sports.Editor.Plugins", "PaintBrush_charged_sports.Editor.Plugins.csproj", "{853A0612-7EDA-AB3D-B389-A7B261FD45B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaintBrush_charged_sports.Editor", "PaintBrush_charged_sports.Editor.csproj", "{1143DDAA-560A-9582-EC8F-7644657993C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93CC6965-A2DA-CA2F-A83E-603570880330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93CC6965-A2DA-CA2F-A83E-603570880330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93CC6965-A2DA-CA2F-A83E-603570880330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93CC6965-A2DA-CA2F-A83E-603570880330}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D22DF01-CAF8-BC69-90AA-77C4844E252D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D22DF01-CAF8-BC69-90AA-77C4844E252D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D22DF01-CAF8-BC69-90AA-77C4844E252D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D22DF01-CAF8-BC69-90AA-77C4844E252D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{853A0612-7EDA-AB3D-B389-A7B261FD45B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{853A0612-7EDA-AB3D-B389-A7B261FD45B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{853A0612-7EDA-AB3D-B389-A7B261FD45B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{853A0612-7EDA-AB3D-B389-A7B261FD45B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1143DDAA-560A-9582-EC8F-7644657993C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1143DDAA-560A-9582-EC8F-7644657993C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1143DDAA-560A-9582-EC8F-7644657993C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1143DDAA-560A-9582-EC8F-7644657993C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

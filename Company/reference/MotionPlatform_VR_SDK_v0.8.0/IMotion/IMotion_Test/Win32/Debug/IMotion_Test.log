@@ -1,0 +1,3 @@
+﻿  main.cpp
+main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  IMotion_Test.vcxproj -> D:\svn\MotionPlatform_VR_SDK_v0.8.0\IMotion\lib\IMotion_Test.exe

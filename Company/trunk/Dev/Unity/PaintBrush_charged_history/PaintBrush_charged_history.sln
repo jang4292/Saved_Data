@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaintBrush_charged_history.Plugins", "PaintBrush_charged_history.Plugins.csproj", "{8E933568-F04F-B990-4793-27D4BF7F12C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaintBrush_charged_history", "PaintBrush_charged_history.csproj", "{2B13FA3B-ED63-2F83-1A9E-5D2BDAD932B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaintBrush_charged_history.Editor.Plugins", "PaintBrush_charged_history.Editor.Plugins.csproj", "{42AFD659-78C5-E385-6D37-9234D16053B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaintBrush_charged_history.Editor", "PaintBrush_charged_history.Editor.csproj", "{044CF4F1-AE8C-3703-6F10-F9753AB56184}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E933568-F04F-B990-4793-27D4BF7F12C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E933568-F04F-B990-4793-27D4BF7F12C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E933568-F04F-B990-4793-27D4BF7F12C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E933568-F04F-B990-4793-27D4BF7F12C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B13FA3B-ED63-2F83-1A9E-5D2BDAD932B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B13FA3B-ED63-2F83-1A9E-5D2BDAD932B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B13FA3B-ED63-2F83-1A9E-5D2BDAD932B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B13FA3B-ED63-2F83-1A9E-5D2BDAD932B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42AFD659-78C5-E385-6D37-9234D16053B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42AFD659-78C5-E385-6D37-9234D16053B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42AFD659-78C5-E385-6D37-9234D16053B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42AFD659-78C5-E385-6D37-9234D16053B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{044CF4F1-AE8C-3703-6F10-F9753AB56184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{044CF4F1-AE8C-3703-6F10-F9753AB56184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{044CF4F1-AE8C-3703-6F10-F9753AB56184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{044CF4F1-AE8C-3703-6F10-F9753AB56184}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

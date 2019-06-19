@@ -1,0 +1,45 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: GLFW_DemoApp - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x409 /fo"Release/Script1.res" /d "NDEBUG" "D:\EEB_PROJECT\Projects\EBIMU9DOF\application\EBIMU9DOF_Viewer_OpenGL\Script1.rc"" 
+Creating temporary file "C:\DOCUME~1\NKJ_DE~1\LOCALS~1\Temp\RSP578.tmp" with contents
+[
+/nologo /ML /W3 /GX /O2 /I "..\..\Include" /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Release/GLFW_DemoApp.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c 
+"D:\EEB_PROJECT\Projects\EBIMU9DOF\application\EBIMU9DOF_Viewer_OpenGL\DemoAppMain.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\NKJ_DE~1\LOCALS~1\Temp\RSP578.tmp" 
+Creating temporary file "C:\DOCUME~1\NKJ_DE~1\LOCALS~1\Temp\RSP579.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /incremental:no /pdb:"Release/GLFW_DemoApp.pdb" /machine:I386 /out:"Release/GLFW_DemoApp.exe" 
+.\Release\DemoAppMain.obj
+.\Release\Script1.res
+]
+Creating command line "link.exe @C:\DOCUME~1\NKJ_DE~1\LOCALS~1\Temp\RSP579.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+DemoAppMain.cpp
+D:\EEB_PROJECT\Projects\EBIMU9DOF\application\EBIMU9DOF_Viewer_OpenGL\DemoAppMain.cpp(349) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+D:\EEB_PROJECT\Projects\EBIMU9DOF\application\EBIMU9DOF_Viewer_OpenGL\DemoAppMain.cpp(349) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+D:\EEB_PROJECT\Projects\EBIMU9DOF\application\EBIMU9DOF_Viewer_OpenGL\DemoAppMain.cpp(349) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+D:\EEB_PROJECT\Projects\EBIMU9DOF\application\EBIMU9DOF_Viewer_OpenGL\DemoAppMain.cpp(349) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+D:\EEB_PROJECT\Projects\EBIMU9DOF\application\EBIMU9DOF_Viewer_OpenGL\DemoAppMain.cpp(757) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+D:\EEB_PROJECT\Projects\EBIMU9DOF\application\EBIMU9DOF_Viewer_OpenGL\DemoAppMain.cpp(758) : warning C4244: 'argument' : conversion from 'float' to 'unsigned int', possible loss of data
+D:\EEB_PROJECT\Projects\EBIMU9DOF\application\EBIMU9DOF_Viewer_OpenGL\DemoAppMain.cpp(764) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+D:\EEB_PROJECT\Projects\EBIMU9DOF\application\EBIMU9DOF_Viewer_OpenGL\DemoAppMain.cpp(765) : warning C4244: 'argument' : conversion from 'float' to 'unsigned int', possible loss of data
+D:\EEB_PROJECT\Projects\EBIMU9DOF\application\EBIMU9DOF_Viewer_OpenGL\DemoAppMain.cpp(771) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+D:\EEB_PROJECT\Projects\EBIMU9DOF\application\EBIMU9DOF_Viewer_OpenGL\DemoAppMain.cpp(772) : warning C4244: 'argument' : conversion from 'float' to 'unsigned int', possible loss of data
+Linking...
+
+
+
+<h3>Results</h3>
+GLFW_DemoApp.exe - 0 error(s), 10 warning(s)
+</pre>
+</body>
+</html>

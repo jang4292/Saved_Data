@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaintBrush_charged_fantasy.Plugins", "PaintBrush_charged_fantasy.Plugins.csproj", "{3147405C-442F-3E95-F95B-7A5000852ED4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaintBrush_charged_fantasy", "PaintBrush_charged_fantasy.csproj", "{E7CD746F-4215-0F88-6DEA-702F0FC20E92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaintBrush_charged_fantasy.Editor.Plugins", "PaintBrush_charged_fantasy.Editor.Plugins.csproj", "{D5351FDC-5898-BA1A-32AF-31DE397D1EF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaintBrush_charged_fantasy.Editor", "PaintBrush_charged_fantasy.Editor.csproj", "{0B053847-08C4-A242-2854-3CF0E6F209F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3147405C-442F-3E95-F95B-7A5000852ED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3147405C-442F-3E95-F95B-7A5000852ED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3147405C-442F-3E95-F95B-7A5000852ED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3147405C-442F-3E95-F95B-7A5000852ED4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7CD746F-4215-0F88-6DEA-702F0FC20E92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7CD746F-4215-0F88-6DEA-702F0FC20E92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7CD746F-4215-0F88-6DEA-702F0FC20E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7CD746F-4215-0F88-6DEA-702F0FC20E92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5351FDC-5898-BA1A-32AF-31DE397D1EF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5351FDC-5898-BA1A-32AF-31DE397D1EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5351FDC-5898-BA1A-32AF-31DE397D1EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5351FDC-5898-BA1A-32AF-31DE397D1EF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B053847-08C4-A242-2854-3CF0E6F209F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B053847-08C4-A242-2854-3CF0E6F209F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B053847-08C4-A242-2854-3CF0E6F209F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B053847-08C4-A242-2854-3CF0E6F209F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

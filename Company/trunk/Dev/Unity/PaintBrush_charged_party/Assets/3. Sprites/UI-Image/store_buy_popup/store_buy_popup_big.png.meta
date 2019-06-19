@@ -1,0 +1,110 @@
+fileFormatVersion: 2
+guid: c1918e2a893cca84bbe032a58e90bf2c
+timeCreated: 1465971220
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: store_buy_popup_big_0
+    21300002: store_buy_popup_big_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: 47
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: store_buy_popup_big_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 714
+        width: 1684
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -842, y: 157}
+        - {x: -842, y: -157}
+        - {x: 842, y: -157}
+        - {x: 842, y: 157}
+    - name: store_buy_popup_big_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 145
+        width: 1698
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 849, y: -244.5}
+        - {x: 849, y: 244.5}
+        - {x: 848, y: 248.5}
+        - {x: 841, y: 256.5}
+        - {x: 836, y: 258.5}
+        - {x: -836, y: 258.5}
+        - {x: -841, y: 256.5}
+        - {x: -848, y: 248.5}
+        - {x: -849, y: 244.5}
+        - {x: -849, y: -244.5}
+        - {x: -848, y: -248.5}
+        - {x: -841, y: -256.5}
+        - {x: -836, y: -258.5}
+        - {x: 836, y: -258.5}
+        - {x: 841, y: -256.5}
+        - {x: 848, y: -248.5}
+      - - {x: -839, y: 232.5}
+        - {x: 839, y: 232.5}
+        - {x: 839, y: -73.5}
+        - {x: -839, y: -73.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8231d0015c102e74abcfea25eb895bdd
+timeCreated: 1478251829
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - menuBgm: {fileID: 8300000, guid: e22aff6d2f4bb3548bdf1ab455ac60ac, type: 3}
+  - baseballBgm: {instanceID: 0}
+  - escapeBgm: {instanceID: 0}
+  - clickSound: {fileID: 8300000, guid: ae92d6ab88822ac4da0de9c27ee59bfa, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

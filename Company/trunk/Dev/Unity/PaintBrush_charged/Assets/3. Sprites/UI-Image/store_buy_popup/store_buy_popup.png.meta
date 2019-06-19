@@ -1,0 +1,282 @@
+fileFormatVersion: 2
+guid: a89a0d2771984f443940620db0b958d0
+timeCreated: 1465974882
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: store_buy_popup_02_0
+    21300002: store_buy_popup_02_1
+    21300004: store_buy_popup_02_2
+    21300006: store_buy_popup_02_3
+    21300008: store_buy_popup_02_4
+    21300010: store_buy_popup_02_5
+    21300012: store_buy_popup_02_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: 47
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: store_buy_popup_02_0
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 404
+        width: 278
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 136, y: -44}
+        - {x: 139, y: -29}
+        - {x: 139, y: 33}
+        - {x: 131, y: 60}
+        - {x: 123, y: 76}
+        - {x: 91, y: 114}
+        - {x: 45, y: 139}
+        - {x: -36, y: 139}
+        - {x: -60, y: 131}
+        - {x: -90, y: 113}
+        - {x: -123, y: 76}
+        - {x: -135, y: 50}
+        - {x: -139, y: 32}
+        - {x: -139, y: -32}
+        - {x: -137, y: -44}
+        - {x: -122, y: -75}
+        - {x: -111, y: -89}
+        - {x: -95, y: -107}
+        - {x: -71, y: -126}
+        - {x: -36, y: -139}
+        - {x: 39, y: -139}
+        - {x: 60, y: -131}
+        - {x: 91, y: -114}
+        - {x: 126, y: -71}
+    - name: store_buy_popup_02_1
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 404
+        width: 278
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 136, y: -44}
+        - {x: 139, y: -29}
+        - {x: 139, y: 33}
+        - {x: 131, y: 60}
+        - {x: 123, y: 76}
+        - {x: 91, y: 114}
+        - {x: 45, y: 139}
+        - {x: -36, y: 139}
+        - {x: -60, y: 131}
+        - {x: -90, y: 113}
+        - {x: -123, y: 76}
+        - {x: -135, y: 50}
+        - {x: -139, y: 32}
+        - {x: -139, y: -32}
+        - {x: -137, y: -44}
+        - {x: -122, y: -75}
+        - {x: -111, y: -89}
+        - {x: -95, y: -107}
+        - {x: -71, y: -126}
+        - {x: -36, y: -139}
+        - {x: 39, y: -139}
+        - {x: 60, y: -131}
+        - {x: 91, y: -114}
+        - {x: 126, y: -71}
+    - name: store_buy_popup_02_2
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 404
+        width: 278
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 136, y: -44}
+        - {x: 139, y: -29}
+        - {x: 139, y: 33}
+        - {x: 131, y: 60}
+        - {x: 123, y: 76}
+        - {x: 91, y: 114}
+        - {x: 45, y: 139}
+        - {x: -36, y: 139}
+        - {x: -60, y: 131}
+        - {x: -90, y: 113}
+        - {x: -123, y: 76}
+        - {x: -135, y: 50}
+        - {x: -139, y: 32}
+        - {x: -139, y: -32}
+        - {x: -137, y: -44}
+        - {x: -122, y: -75}
+        - {x: -111, y: -89}
+        - {x: -95, y: -107}
+        - {x: -71, y: -126}
+        - {x: -36, y: -139}
+        - {x: 39, y: -139}
+        - {x: 60, y: -131}
+        - {x: 91, y: -114}
+        - {x: 126, y: -71}
+    - name: store_buy_popup_02_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 54
+        width: 314
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 157, y: 144}
+        - {x: 156, y: 147}
+        - {x: 147, y: 156}
+        - {x: 144, y: 157}
+        - {x: -147, y: 157}
+        - {x: -157, y: 145}
+        - {x: -157, y: -144}
+        - {x: -156, y: -147}
+        - {x: -147, y: -156}
+        - {x: -144, y: -157}
+        - {x: 144, y: -157}
+        - {x: 147, y: -156}
+        - {x: 156, y: -147}
+        - {x: 157, y: -144}
+    - name: store_buy_popup_02_4
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 78
+        width: 278
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 136, y: -44}
+        - {x: 139, y: -29}
+        - {x: 139, y: 33}
+        - {x: 131, y: 60}
+        - {x: 123, y: 76}
+        - {x: 91, y: 114}
+        - {x: 45, y: 139}
+        - {x: -36, y: 139}
+        - {x: -60, y: 131}
+        - {x: -90, y: 113}
+        - {x: -123, y: 76}
+        - {x: -135, y: 50}
+        - {x: -139, y: 32}
+        - {x: -139, y: -32}
+        - {x: -137, y: -44}
+        - {x: -122, y: -75}
+        - {x: -111, y: -89}
+        - {x: -95, y: -107}
+        - {x: -71, y: -126}
+        - {x: -36, y: -139}
+        - {x: 39, y: -139}
+        - {x: 60, y: -131}
+        - {x: 91, y: -114}
+        - {x: 126, y: -71}
+    - name: store_buy_popup_02_5
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 266
+        width: 81
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 45.5}
+        - {x: -40.5, y: 26.5}
+        - {x: -40.5, y: -27.5}
+        - {x: -15.5, y: -45.5}
+        - {x: 8.5, y: -45.5}
+        - {x: 40.5, y: -30.5}
+        - {x: 40.5, y: 33.5}
+        - {x: 12.5, y: 45.5}
+    - name: store_buy_popup_02_6
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 101
+        width: 413
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 206.5, y: -48}
+        - {x: 206.5, y: 49}
+        - {x: 202.5, y: 56}
+        - {x: 195.5, y: 61}
+        - {x: 189.5, y: 65}
+        - {x: 187.5, y: 66}
+        - {x: -187.5, y: 66}
+        - {x: -189.5, y: 65}
+        - {x: -196.5, y: 61}
+        - {x: -204.5, y: 52}
+        - {x: -206.5, y: 48}
+        - {x: -206.5, y: -49}
+        - {x: -202.5, y: -56}
+        - {x: -190.5, y: -65}
+        - {x: -187.5, y: -66}
+        - {x: 188.5, y: -66}
+        - {x: 196.5, y: -61}
+        - {x: 204.5, y: -52}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

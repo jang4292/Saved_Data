@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaintBrush.Plugins", "PaintBrush.Plugins.csproj", "{E636C9D9-442E-3896-AA4E-157F17CE280C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaintBrush", "PaintBrush.csproj", "{39C6AE3E-C28A-0440-1010-8E4387FDFC05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaintBrush.Editor.Plugins", "PaintBrush.Editor.Plugins.csproj", "{3CB648BE-2F18-E93E-0BA1-2452C9F085DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaintBrush.Editor", "PaintBrush.Editor.csproj", "{661F715E-349D-8A92-6C8C-15902378548D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E636C9D9-442E-3896-AA4E-157F17CE280C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E636C9D9-442E-3896-AA4E-157F17CE280C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E636C9D9-442E-3896-AA4E-157F17CE280C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E636C9D9-442E-3896-AA4E-157F17CE280C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39C6AE3E-C28A-0440-1010-8E4387FDFC05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39C6AE3E-C28A-0440-1010-8E4387FDFC05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39C6AE3E-C28A-0440-1010-8E4387FDFC05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39C6AE3E-C28A-0440-1010-8E4387FDFC05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CB648BE-2F18-E93E-0BA1-2452C9F085DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB648BE-2F18-E93E-0BA1-2452C9F085DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CB648BE-2F18-E93E-0BA1-2452C9F085DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CB648BE-2F18-E93E-0BA1-2452C9F085DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{661F715E-349D-8A92-6C8C-15902378548D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{661F715E-349D-8A92-6C8C-15902378548D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{661F715E-349D-8A92-6C8C-15902378548D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{661F715E-349D-8A92-6C8C-15902378548D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

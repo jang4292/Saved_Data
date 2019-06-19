@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KinectTest2D(2016.02.16).CSharp.Plugins", "KinectTest2D(2016.02.16).CSharp.Plugins.csproj", "{45444180-E1E2-151D-1776-735EC8F2F46D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KinectTest2D(2016.02.16).CSharp", "KinectTest2D(2016.02.16).CSharp.csproj", "{4A2CD32B-8D43-89FC-F9F7-D371446A257E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KinectTest2D(2016.02.16).CSharp.Editor.Plugins", "KinectTest2D(2016.02.16).CSharp.Editor.Plugins.csproj", "{910F8420-9ECB-F9FA-8C78-A4D7938BB529}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45444180-E1E2-151D-1776-735EC8F2F46D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45444180-E1E2-151D-1776-735EC8F2F46D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45444180-E1E2-151D-1776-735EC8F2F46D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45444180-E1E2-151D-1776-735EC8F2F46D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A2CD32B-8D43-89FC-F9F7-D371446A257E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A2CD32B-8D43-89FC-F9F7-D371446A257E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A2CD32B-8D43-89FC-F9F7-D371446A257E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A2CD32B-8D43-89FC-F9F7-D371446A257E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{910F8420-9ECB-F9FA-8C78-A4D7938BB529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{910F8420-9ECB-F9FA-8C78-A4D7938BB529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{910F8420-9ECB-F9FA-8C78-A4D7938BB529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{910F8420-9ECB-F9FA-8C78-A4D7938BB529}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

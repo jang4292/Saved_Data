@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mamp.paintbrush_charged_historical">
+
+    <!-- Android GCM Plugin -->
+    <!-- Rewite app package name! -->
+    <permission android:name="com.mamp.paintbrush.permission_charged_all.C2D_MESSAGE" android:protectionLevel="signature" />
+    <uses-permission android:name="com.mamp.paintbrush_charged_historical.permission.C2D_MESSAGE" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <!-- Android GCM Plugin -->
+
+    <!-- GA -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+    <uses-permission android:name="android.permission.BROADCAST_STICKY"/>
+
+    <application
+        android:icon="@drawable/app_icon"
+        android:allowBackup="true"
+        android:label="@string/app_name">
+
+        <activity
+            android:name="com.mamp.paintbrush.MainActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
+            android:screenOrientation="landscape">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.unity3d.player.UnityPlayerProxyActivity"
+            android:launchMode="singleTask"
+            android:label="@string/app_name"
+            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen">
+        </activity>
+
+        <activity
+            android:name="com.unity3d.player.UnityPlayerActivity"
+            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape" />
+
+        <activity android:name="com.unity3d.player.UnityPlayerNativeActivity"
+            android:launchMode="singleTask"
+            android:label="@string/app_name"
+            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen">
+            <meta-data android:name="android.app.lib_name" android:value="unity" />
+            <meta-data android:name="unityplayer.ForwardNativeEventsToDalvik" android:value="false" />
+        </activity>
+
+        <!-- Android GCM Plugin -->
+        <!-- Rewite app package name! -->
+        <receiver android:name="com.mamp.paintbrush.gcm.UnityGCMBroadcastReceiver" android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+                <category android:name="com.mamp.paintbrush_charged_historical" />
+            </intent-filter>
+        </receiver>
+        <service android:name="com.mamp.paintbrush.gcm.UnityGCMIntentService" />
+        <!-- Android GCM Plugin -->
+
+        <service android:name="com.google.analytics.tracking.android.CampaignTrackingService" />
+        <receiver android:name="com.google.analytics.tracking.android.CampaignTrackingReceiver"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+
+    </application>
+</manifest>

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hellojune.Plugins", "hellojune.Plugins.csproj", "{65166213-EDA5-A540-7024-88A65AB81E96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hellojune", "hellojune.csproj", "{7A4B1894-EEF7-3C07-CC8F-DCF7B097A11F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hellojune.Editor", "hellojune.Editor.csproj", "{E6ACF99D-3478-0B46-E975-5ADD1A411900}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65166213-EDA5-A540-7024-88A65AB81E96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65166213-EDA5-A540-7024-88A65AB81E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65166213-EDA5-A540-7024-88A65AB81E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65166213-EDA5-A540-7024-88A65AB81E96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A4B1894-EEF7-3C07-CC8F-DCF7B097A11F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A4B1894-EEF7-3C07-CC8F-DCF7B097A11F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A4B1894-EEF7-3C07-CC8F-DCF7B097A11F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A4B1894-EEF7-3C07-CC8F-DCF7B097A11F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6ACF99D-3478-0B46-E975-5ADD1A411900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6ACF99D-3478-0B46-E975-5ADD1A411900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6ACF99D-3478-0B46-E975-5ADD1A411900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6ACF99D-3478-0B46-E975-5ADD1A411900}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

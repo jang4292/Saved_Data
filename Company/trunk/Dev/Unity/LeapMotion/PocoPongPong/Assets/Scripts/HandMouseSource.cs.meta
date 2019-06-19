@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d5bf2f4dc538a074289042b06dd02db9
+timeCreated: 1453689067
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - spriteIdle: {instanceID: 0}
+  - spriteClick: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

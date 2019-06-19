@@ -1,0 +1,9 @@
+D:\svn\MotionPlatform_VR_SDK_v0.8.0\MotionControlAPI\lib\x64\InnoMotion_Test_csharp.exe.config
+D:\svn\MotionPlatform_VR_SDK_v0.8.0\MotionControlAPI\lib\x64\InnoMotion_Test_csharp.exe
+D:\svn\MotionPlatform_VR_SDK_v0.8.0\MotionControlAPI\lib\x64\InnoMotion_Test_csharp.pdb
+D:\svn\MotionPlatform_VR_SDK_v0.8.0\MotionControlAPI\InnoMotion_Test_csharp\obj\x64\Debug\InnoMotion_Test_csharp.csprojResolveAssemblyReference.cache
+D:\svn\MotionPlatform_VR_SDK_v0.8.0\MotionControlAPI\InnoMotion_Test_csharp\obj\x64\Debug\InnoMotion_Test_csharp.Form1.resources
+D:\svn\MotionPlatform_VR_SDK_v0.8.0\MotionControlAPI\InnoMotion_Test_csharp\obj\x64\Debug\InnoMotion_Test_csharp.Properties.Resources.resources
+D:\svn\MotionPlatform_VR_SDK_v0.8.0\MotionControlAPI\InnoMotion_Test_csharp\obj\x64\Debug\InnoMotion_Test_csharp.csproj.GenerateResource.Cache
+D:\svn\MotionPlatform_VR_SDK_v0.8.0\MotionControlAPI\InnoMotion_Test_csharp\obj\x64\Debug\InnoMotion_Test_csharp.exe
+D:\svn\MotionPlatform_VR_SDK_v0.8.0\MotionControlAPI\InnoMotion_Test_csharp\obj\x64\Debug\InnoMotion_Test_csharp.pdb

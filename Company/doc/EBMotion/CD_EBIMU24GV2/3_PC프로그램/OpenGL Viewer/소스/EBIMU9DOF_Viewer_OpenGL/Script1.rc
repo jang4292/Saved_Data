@@ -1,0 +1,111 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Korean resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
+#ifdef _WIN32
+LANGUAGE LANG_KOREAN, SUBLANG_DEFAULT
+#pragma code_page(949)
+#endif //_WIN32
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_DIALOG1 DIALOG DISCARDABLE  0, 0, 189, 118
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "IMU Tester v1.0 for EBIMU9DOF - E2BOX"
+FONT 10, "System"
+BEGIN
+    LTEXT           "Serial Port",IDC_STATIC,7,10,35,8
+    COMBOBOX        IDC_COMPORT,45,7,48,93,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+    PUSHBUTTON      "Connect",IDC_CONNECT,100,7,50,12
+    CONTROL         "Progress1",IDC_PROG_PITCH,"msctls_progress32",
+                    PBS_SMOOTH | WS_BORDER,29,29,119,10
+    LTEXT           "Pitch",IDC_STATIC,7,30,17,8
+    CONTROL         "Progress1",IDC_PROG_ROLL,"msctls_progress32",PBS_SMOOTH | 
+                    WS_BORDER,29,50,119,10
+    LTEXT           "Roll",IDC_STATIC,7,51,14,8
+    CONTROL         "Progress1",IDC_PROG_YAW,"msctls_progress32",PBS_SMOOTH | 
+                    WS_BORDER,29,71,119,10
+    LTEXT           "Yaw",IDC_STATIC,7,71,15,8
+    LTEXT           "0.0",IDC_DEGPITCH,153,30,29,8
+    LTEXT           "0.0",IDC_DEGROLL,153,51,29,8
+    LTEXT           "0.0",IDC_DEGYAW,153,71,29,8
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_DIALOG1, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 182
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 111
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+#endif    // Korean resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

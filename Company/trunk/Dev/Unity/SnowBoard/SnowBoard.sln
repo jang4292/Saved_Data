@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnowBoard.Plugins", "SnowBoard.Plugins.csproj", "{836A11A1-579A-0212-B4A7-06ABBCA26DF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnowBoard", "SnowBoard.csproj", "{8FFCC785-227B-E134-E963-8B487D2FF49C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnowBoard.Editor", "SnowBoard.Editor.csproj", "{5491A0BF-4D30-D55B-672A-FE31B35F444E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{836A11A1-579A-0212-B4A7-06ABBCA26DF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{836A11A1-579A-0212-B4A7-06ABBCA26DF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{836A11A1-579A-0212-B4A7-06ABBCA26DF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{836A11A1-579A-0212-B4A7-06ABBCA26DF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FFCC785-227B-E134-E963-8B487D2FF49C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FFCC785-227B-E134-E963-8B487D2FF49C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FFCC785-227B-E134-E963-8B487D2FF49C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FFCC785-227B-E134-E963-8B487D2FF49C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5491A0BF-4D30-D55B-672A-FE31B35F444E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5491A0BF-4D30-D55B-672A-FE31B35F444E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5491A0BF-4D30-D55B-672A-FE31B35F444E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5491A0BF-4D30-D55B-672A-FE31B35F444E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
